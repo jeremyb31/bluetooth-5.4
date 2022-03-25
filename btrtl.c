@@ -15,7 +15,7 @@
 
 #include "btrtl.h"
 
-#define VERSION "0.1"
+#define VERSION "0.15"
 
 #define RTL_EPATCH_SIGNATURE	"Realtech"
 #define RTL_ROM_LMP_3499	0x3499
